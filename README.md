@@ -1,2 +1,2 @@
-# Ho-KagoTeaTime-Alternative
-Fan-game produzido pelos grupos LunarPy e Chá, Bolo e Talvez Música
+Este projeto foi movido para uma organização;
+Para mais informações, entre em contato com @hayukimori
